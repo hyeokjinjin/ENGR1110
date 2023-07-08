@@ -1,0 +1,8 @@
+Required Modules for REPLAC3:
+
+pathlib
+tkinter
+tkintermapview
+pandas
+webbrowser
+PIL
